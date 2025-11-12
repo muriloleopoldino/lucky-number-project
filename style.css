@@ -1,0 +1,80 @@
+*{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+img{
+    height: 374px;
+}
+
+.title{
+    font-style: normal;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 126px;
+    margin-bottom: 26px;
+    line-height: 38px;
+    position: relative;
+    bottom: 135px;
+}
+
+
+.input-container{
+    position: relative;
+    bottom: 70px;
+}
+
+.input-number1, .input-number2{
+    border-radius: 14px;
+    border: 1px solid rgba(255, 255, 255, 0.20);
+    background: rgba(255, 255, 255, 0.25);
+    font-weight: 500;
+    width: 342px;
+    height: 74px;
+    padding-left: 20px;
+    font-size: 40px;
+    line-height: 47px;
+    opacity: 0.7;
+}
+
+.input-number1{
+    margin-right: 62px;
+}
+
+button{
+    border-radius: 10px;
+    background: #AEC346;
+    box-shadow: 0 18px 40px 0 rgba(174, 195, 70, 0.35);
+    width: 342px;
+    height: 72px;
+    display: block;
+    margin: 20px auto;
+    position: relative;
+    bottom: 50px;
+    font-weight: 700;
+    font-size: 36px;
+    margin-top: 80px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+button:active{
+    opacity: 0.6;
+}
