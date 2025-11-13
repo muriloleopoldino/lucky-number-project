@@ -1,4 +1,4 @@
-<h1>Lucky Number!</h1>
+<h1>🍀 Lucky Number!</h1>
 <br><br>
 <h2>Esse foi um projeto que sorteia números, você escolhe 2 números e sorteia entre eles.</h2>
 <br>
