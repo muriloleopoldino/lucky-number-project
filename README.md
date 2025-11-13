@@ -8,4 +8,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo">
 <br><br>
 <h3>💻 Site no Desktop:</h3>
-<img src="./assets/img/desktop.png>" alt="lucky-number-img">
+<img src="https://github.com/muriloleopoldino/lucky-number-project/blob/main/assets/img/desktop.png?raw=true">
+<br><br>
+<h3>📱 Site no Mobile:</h3>
